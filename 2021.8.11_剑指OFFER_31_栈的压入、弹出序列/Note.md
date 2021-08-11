@@ -1,0 +1,1 @@
+可以通过while stack判断stack是否为空
